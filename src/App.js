@@ -66,10 +66,11 @@ function App() {
             Our team (Team #4828) competed in District and Statewide FIRST
             Robotics Competitions (FRC) in North Carolina. I participated in the
             team's mechanical, business, and media team where I mainly worked on
-            keeping the web page up-to-date and getting the team grants and
-            sponsorships. Our team won the Entrepreneurship Award for the North
-            Carolina district for the 2021-22 season. I was elected to be part
-            of the team's Student Board in June 2022.
+            keeping the web page up-to-date and getting the team more than
+            12,000 dollars in grants and sponsorships. Our team won the
+            Entrepreneurship Award for the North Carolina district for the
+            2021-22 season. I was elected to be part of the team's Student Board
+            in June 2022.
           </small>
         </div>
         <div className="exText">
@@ -175,6 +176,17 @@ function App() {
             the team.
           </small>
         </div>
+        <div className="exText">
+          <p className="exTitle">
+            FIRST Lego League North Carolina Innovative Solution Award
+            <span className="exTime">(January 2020)</span>
+          </p>
+          <small className="exDesc">
+            My FRC team (Team 4828: RoboEagles) were awarded the District
+            Entrepreneurship Award for our hard work in attaining funding for
+            the team.
+          </small>
+        </div>
         <h2>Work Experience:</h2>
 
         <h2>Volunteering:</h2>
@@ -199,6 +211,16 @@ function App() {
             STEM-related fields. I worked in the team to enhance STEM education
             through hard work, dedication, and fun as well as promote science,
             technology, and teamwork throughout the community.
+          </small>
+        </div>
+        <div className="exText">
+          <p className="exTitle">
+            Junior Beta Club
+            <span className="exTime">(September 2019 - June 2021)</span>
+          </p>
+          <small className="exDesc">
+            Completed 20 hours of community service through Junior Beta Club at
+            Carnage Middle School as a general member.
           </small>
         </div>
         <h2>Skills:</h2>
