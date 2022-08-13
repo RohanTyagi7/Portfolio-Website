@@ -5,7 +5,7 @@ function App() {
     <div>
       <div className="centeredBlock">
         <h1>Rohan Tyagi</h1>
-        <img src={logo} className="centeredImage"></img>
+        <img src="/src/image1.png" className="centeredImage"></img>
         <br></br>
         <div className="centerText">
           <div className="row">
